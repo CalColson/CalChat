@@ -5,6 +5,8 @@ repositories {
     flatDir {
         dirs 'libs'
     }
+
+    maven { url 'https://maven.fabric.io/public' }
 }
 
 android {
@@ -12,7 +14,7 @@ android {
     buildToolsVersion "25.0.0"
     defaultConfig {
         applicationId "com.example.cal.calchat"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -31,10 +33,22 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:design:25.0.0'
-    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.android.support:design:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
 
     // Displaying images
     compile 'com.github.bumptech.glide:glide:3.6.1'
+
+    // Firebase Dependencies
+    compile 'com.google.firebase:firebase-core:9.8.0'
+    compile 'com.google.firebase:firebase-database:9.8.0'
+    compile 'com.google.firebase:firebase-auth:9.8.0'
+
+    // Firebase-UI Dependencies
+    compile 'com.firebaseui:firebase-ui-auth:1.0.0'
+
 }
+
+// Google Services
+apply plugin: 'com.google.gms.google-services'

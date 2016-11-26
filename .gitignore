@@ -38,3 +38,6 @@
 
 # Keystore files
 # *.jks
+
+#google-services info and keys
+google-services.json

@@ -3,57 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6983c67fd1e765431306fa10aaca237bf761195e\classes.dex" />
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.0.0_bc03157c23f96198f25c02617c09d32ae20ee23b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7321a2e515d5393ee599738d8a461017531d6bb3">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c22de8a428cb965b9561b3da4eaf784dbeff961\classes.dex" />
+        sha1="41f89f608187d3d0c83ce69142ae0d223d40c06d">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-1.0.0_4f90fd2d013409921f0c72eed69ef7a7798c1518\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_48586c20c7fc8507fd8da082b11a3cdcd18783eb\classes.dex" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b99591a86d6b8ba3b4fac71f92fd2d5b2e242aa1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_5b26ca052d71cd9fd82d8aafb680831681c857fd\classes.dex" />
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_048023911590f4ef5720a36c006ee2c46a404a11\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_c35445c28811216e9dcc02b5f7af384b86ca12ee\classes.dex" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bd17790caabec8a86b18437c70d822e4712e5b0d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_dd4f59dd825c02ebc521f2f0f170230e2ec6ef28\classes.dex" />
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_16b1fcd5ab4c326528c8356d571ffef8e8453c22\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -61,89 +61,404 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="ba3ebf0edcb8df4db846bed06f6d142ba40f4dbd">
+        sha1="f31a9cf9e3a9a465c3a9b3c8304b0125ce63691c">
         <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54e9248966148583a2c81b3fd2c1c7656afacf05\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_71646ad0773d641dc71aa76f6e1d537517e483ae\classes.dex" />
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_4b1d70e374df12bc4d53a4a01aadd578df3f3df4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_c8a5e88e983d07cbbef048283cd74c44e8482e2c\classes.dex" />
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_30ef3e94fe35d3cee08d0ef931769b5595000838\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_53e1c6e72c9f9edf663a17c590f35a09d358a749\classes.dex" />
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_27929fb62c69da2890d8b8a4d8c080754b73ff06\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_fd21898dae4f0f453f5f27fd0baad026bc39b7b0\classes.dex" />
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_9c6ba0f376084d4a35feaadb1218ee48e3ee81b9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_45338c1263c165e08f19bce24cdf5caa8f2f0265\classes.dex" />
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_cc833cd9113f86c627dc6e9ee64e2e4a7c040da0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_14170896c1fb8a973f8d400db37d6bdf83fa6c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_457761a33d575c07c6f15584642d1cd3dc8859c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_fbaa8128e6f196b557d865cad64bcbaa5be56fde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_70b0ba2b1ca6fe27280cae532f61cc37012d4000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_34105f707155dd6d5ef52e12d03cf148707a6cf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_97e7969a39bd2227a0f801341a356b6e055df00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_389d51d60e5f6aafa7a1b87a13a4283313bd0605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_14d73156f567d99b45900a28258bfd69cceee72f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_c12e8e4952bc016b416d016bf7f01d3b3dd50e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_0ceb489a001034e07cbf3f050c2eeed6a1d728fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_c88b420f09b46c938ab4c1b145ff946b396045e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.14.1_ce5ca46f2cf482cc3bdc396b4ad46513d4f74f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.13\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.13_089b0aefab6853b2c894a221d30a141551f8e389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_d0bc4afb813582ea0b365e9b9004b61b3e58fae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_93bbd0ca2a9ad48825f73a772ee2e548fe6c1934\classes.dex" />
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bb61146b20d39068efaa62c2fa7bf0b286dc147b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_32cacf9ab8089185274bfc7913c379042bc9d218\classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_5c273b554c7ea08d95ebf473c0fbf29ac62bab03\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6efd34989f90eaf97a572d498daf0de074999188\classes.dex" />
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_3edb588a6cc746fcdf7d5b84afddbdc93b0786dd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_d217ebb39f325d3d64ff0a6c1c151bf993ac5921\classes.dex" />
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_d71023dee4f7d75f39bac4ac99e078afb4243c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.0.0_be9f0870ca626095b8be32148c86894f8a884f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_4cded611f2143017e70f518015c0e68dd4042706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_0a941535902b07290477db5678eb790cb7d1a9cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_6bbb59cde419ee10cd0d0be10e6244136bba5361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_c0618f5812898a722c2ec49d1b052c3e351a2c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a8a2b46aab35b6afe76d4d7b1b8acb0caa403af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.0.0_6b7b0647efcb6ebb784dd10368b77689277aa3a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7df6e3e7b44a52f67959a7651d4ad73487a65a84">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c22de8a428cb965b9561b3da4eaf784dbeff961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_d24e38fe97cea9bfcb9533c2129d763022d21e08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_4f9b14ed7044c21cb3b52ffb8ea48845e7be4013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_5f0ddbcec7e03aadffa6977424cdcdaf952d134b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_2111ec941702b5af4827a37648cf2684cd4d005c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_414b95d03a634321b0224abb0fac3428ba529cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_139ce49a7c997bc5dfdd2c5faf7002efd793c88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_143863aba139e79d607dd8007aef88a21e1376f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_f0e253197b9fc008077acab2a65b8d4c2222653e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2def3c914aafd8b2e17bfe9216cbb668f87a3d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_e2ba6165a9be3cbc43c43ccf1fdd95a955ef47f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.0.0_a153d0debc48828756425c5d0c5188d0129ed97d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_f488e1cd7abcce04cc1bc1c50e7669773d892a59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_b15d2474eeca85d69e4bca1b0b14ed4f9990b29a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,39 +471,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jar="C:\Users\Cal\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_6711b038cdab2385f5a33ed4b5ea6302e98cf6e2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_e9f704e5d50300c9e464bcbb8f703bb28c3342b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_d7621f59381aa0f8671966368ddc4d97b84e161d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_64b6a278d32d5d7ea18b695df3e5b146aac0f043\classes.dex" />
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Cal\AndroidStudioProjects\CalChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_9bd2c536e5445a076783a3be2ce566c2f5d6b273\classes.dex" />
     </item>
 
 </items>
